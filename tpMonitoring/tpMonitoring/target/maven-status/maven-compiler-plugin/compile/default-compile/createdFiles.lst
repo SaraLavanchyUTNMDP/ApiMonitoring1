@@ -1,0 +1,4 @@
+com\utn\tpMonitoring\controllers\ServiceController.class
+com\utn\tpMonitoring\repository\Irepository.class
+com\utn\tpMonitoring\TpMonitoringApplication.class
+com\utn\tpMonitoring\services\Service.class
