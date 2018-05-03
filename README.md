@@ -38,7 +38,7 @@ An archetype is a template that defines how the things of the same type that for
 * __@Service:__ indicates that the class is a bean of the bussiness layer.
 * __@Controller:__ indicates that the class is a controller.
 * __@Diagram:__
-<br /> ![alt test](https://github.com/SaraLavanchyUTNMDP/ApiMonitoring/blob/master/springAnnotationDiagram.png "Spring Stereotypes diagram")
+<br /> ![alt test](https://github.com/SaraLavanchyUTNMDP/ApiMonitoring1/blob/master/springAnnotationDiagram.png?raw=true "Spring Stereotypes diagram")
 
 ### Rest.
 #### Explain each verbs.
