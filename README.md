@@ -26,7 +26,7 @@ Dependency scope is used to limit the transitivity of a dependency, and also to 
 <br /> It's a toolkit of templates and is defined as an original pattern or model from which all other things of the same kind are made.
 
 2. Define the basic structure of a maven's proyect
-<br /> ![alt test](https://github.com/SaraLavanchyUTNMDP/ApiMonitoring/blob/master/Maven-dirctory-structure.png "maven basic structure")
+<br /> ![alt test](https://github.com/SaraLavanchyUTNMDP/ApiMonitoring1/blob/master/Maven-dirctory-structure.png?raw=true "maven basic structure")
 
 3. Diferences of Archetype and Artifact
 An archetype is a template that defines how the things of the same type that form part of this pattern will be done. For another way, an artifact is something that can be produced or used by a project at the same time or not. An artifact be related to an especific Archetype.
